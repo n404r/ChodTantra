@@ -9,7 +9,7 @@
 # ***Use this program responsibly and do not use it for malicious purposes.***
 
 ## Getting Started
-1. Clone or download this repository to your local machine.
+1. Clone or download this repository to your local machine. or [Click Here](https://github.com/n404r/ChodTantra/archive/refs/heads/main.zip) to directly download the zip.
 2. Open the play.txt file in a text editor of your choice and add your desired keywords or code snippets. **Make sure both ChodTantra.exe and play.txt file are in the same folder**
 3. Save the play.txt file.
 4. Run the ChodTantra.exe file.
