@@ -8,7 +8,7 @@
 
 ## Getting Started
 1. Clone or download this repository to your local machine.
-2. Open the play.txt file in a text editor of your choice and add your desired keywords or code snippets, one per line.
+2. Open the play.txt file in a text editor of your choice and add your desired keywords or code snippets. **Make sure both ChodTantra.exe and play.txt file are in the same folder**
 3. Save the play.txt file.
 4. Run the ChodTantra.exe file.
 5. Navigate to any website with a text box.
