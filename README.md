@@ -1,8 +1,10 @@
 # ChodTantra
 ## ChodTantra is a simple utility that allows you to quickly input pre-defined keywords or code snippets into text boxes on any website.
+### This tool only works on windows!
 
 ## Notes
 **Do not rename the play.txt or ChodTantra.exe files as this will break the functionality of the program.**
+
 
 # ***Use this program responsibly and do not use it for malicious purposes.***
 
