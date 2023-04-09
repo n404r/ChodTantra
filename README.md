@@ -16,6 +16,7 @@
 5. Navigate to any website with a text box.
 6. Click on the text box to select it.
 7. Press CTRL+SHIFT+P to input the pre-defined keywords or code snippets into the text box.
+8. You can just edit the play.txt file and save it to change the code, no need to run ChodTantra.exe again. (You can manually exit the ChodTantra software by click on taskbar icon of ChodTantra and exit it)
 
 ## Disclaimer
 
