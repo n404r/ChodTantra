@@ -18,6 +18,11 @@
 7. Press CTRL+SHIFT+P to input the pre-defined keywords or code snippets into the text box.
 8. You can just edit the play.txt file and save it to change the code, no need to run ChodTantra.exe again. (You can manually exit the ChodTantra software by click on taskbar icon of ChodTantra and exit it)
 
+## Video Tutorial
+
+https://user-images.githubusercontent.com/93007388/230796968-e33fdf01-00f8-4883-aed9-6ddc6a6fb4ae.mp4
+
+
 ## Disclaimer
 
 This software is provided as is and without warranty of any kind. The author(s) are not responsible for any damages or losses that may result from its use. Use at your own risk.
