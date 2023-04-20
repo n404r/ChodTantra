@@ -1,6 +1,7 @@
-# ChodTantra Version 2💩
+# ChodTantra Version 2 💩
 ## ChodTantra is a simple utility that allows you to quickly paste pre-copied keywords or code snippets into text boxes on any website which restricts copy-paste.
 ### This tool only works on windows!
+### Shortcut key to paste is CTRL+SHIFT+P.
 
 ## Getting Started
 1. Download this file to your local machine. [Click Here To Download](https://github.com/n404r/ChodTantra/raw/latest/ChodTantraV2.exe)
