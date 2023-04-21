@@ -4,7 +4,7 @@
 ### Shortcut key to paste is CTRL+SHIFT+P.
 
 ## Getting Started
-1. Download this file to your local machine. [Click Here To Download](https://github.com/n404r/ChodTantra/raw/latest/ChodTantraV2.exe)
+1. Download this file to your local machine. [Click Here To Download](https://github.com/n404r/ChodTantra/raw/V2/ChodTantraV2.exe)
 4. Run the ChodTantraV2.exe file.
 5. Copy the text you want to paste somewhere.
 7. Press CTRL+SHIFT+P to paste.
